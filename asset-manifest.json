@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Memory-Match/static/css/main.cda171b3.css",
+    "main.js": "/Memory-Match/static/js/main.69a0744b.js",
+    "static/js/453.d3990955.chunk.js": "/Memory-Match/static/js/453.d3990955.chunk.js",
+    "index.html": "/Memory-Match/index.html",
+    "main.cda171b3.css.map": "/Memory-Match/static/css/main.cda171b3.css.map",
+    "main.69a0744b.js.map": "/Memory-Match/static/js/main.69a0744b.js.map",
+    "453.d3990955.chunk.js.map": "/Memory-Match/static/js/453.d3990955.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda171b3.css",
+    "static/js/main.69a0744b.js"
+  ]
+}
